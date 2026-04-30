@@ -62,6 +62,7 @@ We have detailed profiles (product, funding, business model, customer pricing) f
 | **Databricks** | [databricks.com](https://www.databricks.com) | [databricks](docs/databricks.md) | Data Intelligence Platform, $134B valuation |
 | **Elastic** | [elastic.co](https://www.elastic.co) | [elastic](docs/elastic.md) | Elasticsearch Labs — GenAI, embedding, reranking |
 | **Box** | [box.com](https://www.box.com) | [box](docs/box.md) | Cloud content management, file systems for agents |
+| **Reducto** | [reducto.ai](https://reducto.ai) | [reducto](docs/reducto.md) | AI document intelligence, $108M raised, 2B+ pages processed |
 
 ### Data and Databases
 
