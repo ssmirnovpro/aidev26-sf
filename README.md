@@ -43,47 +43,47 @@ We have detailed profiles (product, funding, business model, customer pricing) f
 
 | Company | Website | Profile | What They Do |
 |---------|---------|---------|--------------|
-| **Codream** | [codream.ai](https://codream.ai) | [codream](docs/codream.md) | Collaborative AI learning platform (Andrew Ng) |
-| **LangChain** | [langchain.com](https://langchain.com) | [langchain](docs/langchain.md) | Infrastructure for AI agents, LangSmith, LangGraph |
-| **AI21 Labs** | [ai21.com](https://www.ai21.com) | [ai21-labs](docs/ai21-labs.md) | Enterprise LLM (Jamba), 256K context |
-| **LandingAI** | [landing.ai](https://landing.ai) | [landingai](docs/landingai.md) | Agentic Document Extraction (Andrew Ng) |
-| **Replit** | [replit.com](https://replit.com) | [replit](docs/replit.md) | AI app creation, $9B valuation, 54x ARR growth |
+| **Codream** | [codream.ai](https://codream.ai) | [codream](codream.md) | Collaborative AI learning platform (Andrew Ng) |
+| **LangChain** | [langchain.com](https://langchain.com) | [langchain](langchain.md) | Infrastructure for AI agents, LangSmith, LangGraph |
+| **AI21 Labs** | [ai21.com](https://www.ai21.com) | [ai21-labs](ai21-labs.md) | Enterprise LLM (Jamba), 256K context |
+| **LandingAI** | [landing.ai](https://landing.ai) | [landingai](landingai.md) | Agentic Document Extraction (Andrew Ng) |
+| **Replit** | [replit.com](https://replit.com) | [replit](replit.md) | AI app creation, $9B valuation, 54x ARR growth |
 
 ### Infrastructure and DevTools
 
 | Company | Website | Profile | What They Do |
 |---------|---------|---------|--------------|
-| **Temporal** | [temporal.io](https://temporal.io) | [temporal](docs/temporal.md) | Durable Execution, $5B valuation, OpenAI integration |
-| **Docker** | [docker.com](https://www.docker.com) | [docker](docs/docker.md) | Sandboxes (microVM) for safe agent execution |
-| **Datadog** | [datadoghq.com](https://www.datadoghq.com) | [datadog](docs/datadog.md) | LLM Observability, AI agent monitoring |
-| **Sonar** | [sonarsource.com](https://www.sonarsource.com) | [sonar](docs/sonar.md) | Agentic Analysis — AI code verification in seconds |
-| **CodeRabbit** | [coderabbit.ai](https://coderabbit.ai) | [coderabbit](docs/coderabbit.md) | AI code review, $88M raised, 2M+ repos |
-| **Redis** | [redis.io](https://redis.io) | [redis](docs/redis.md) | LangCache — semantic LLM caching |
-| **Databricks** | [databricks.com](https://www.databricks.com) | [databricks](docs/databricks.md) | Data Intelligence Platform, $134B valuation |
-| **Elastic** | [elastic.co](https://www.elastic.co) | [elastic](docs/elastic.md) | Elasticsearch Labs — GenAI, embedding, reranking |
-| **Box** | [box.com](https://www.box.com) | [box](docs/box.md) | Cloud content management, file systems for agents |
-| **Reducto** | [reducto.ai](https://reducto.ai) | [reducto](docs/reducto.md) | AI document intelligence, $108M raised, 2B+ pages processed |
+| **Temporal** | [temporal.io](https://temporal.io) | [temporal](temporal.md) | Durable Execution, $5B valuation, OpenAI integration |
+| **Docker** | [docker.com](https://www.docker.com) | [docker](docker.md) | Sandboxes (microVM) for safe agent execution |
+| **Datadog** | [datadoghq.com](https://www.datadoghq.com) | [datadog](datadog.md) | LLM Observability, AI agent monitoring |
+| **Sonar** | [sonarsource.com](https://www.sonarsource.com) | [sonar](sonar.md) | Agentic Analysis — AI code verification in seconds |
+| **CodeRabbit** | [coderabbit.ai](https://coderabbit.ai) | [coderabbit](coderabbit.md) | AI code review, $88M raised, 2M+ repos |
+| **Redis** | [redis.io](https://redis.io) | [redis](redis.md) | LangCache — semantic LLM caching |
+| **Databricks** | [databricks.com](https://www.databricks.com) | [databricks](databricks.md) | Data Intelligence Platform, $134B valuation |
+| **Elastic** | [elastic.co](https://www.elastic.co) | [elastic](elastic.md) | Elasticsearch Labs — GenAI, embedding, reranking |
+| **Box** | [box.com](https://www.box.com) | [box](box.md) | Cloud content management, file systems for agents |
+| **Reducto** | [reducto.ai](https://reducto.ai) | [reducto](reducto.md) | AI document intelligence, $108M raised, 2B+ pages processed |
 
 ### Data and Databases
 
 | Company | Website | Profile | What They Do |
 |---------|---------|---------|--------------|
-| **Neo4j** | [neo4j.com](https://neo4j.com) | [neo4j](docs/neo4j.md) | Graph database, context graphs for agents |
-| **Actian** | [actian.com](https://www.actian.com) | [actian](docs/actian.md) | VectorAI DB, on-premises vector search |
+| **Neo4j** | [neo4j.com](https://neo4j.com) | [neo4j](neo4j.md) | Graph database, context graphs for agents |
+| **Actian** | [actian.com](https://www.actian.com) | [actian](actian.md) | VectorAI DB, on-premises vector search |
 
 ### AI Startups
 
 | Company | Website | Profile | What They Do |
 |---------|---------|---------|--------------|
-| **BAND** | [band.ai](https://www.band.ai) | [band](docs/band.md) | Agentic Mesh — "Slack for agents" with governance |
-| **Unblocked** | [getunblocked.com](https://getunblocked.com) | [unblocked](docs/unblocked.md) | Context Engine: -42% tokens, +27% speed |
-| **Spice AI** | [spice.ai](https://spice.ai) | [spice-ai](docs/spice-ai.md) | Open-source Data & AI Runtime (Rust) |
-| **Apify** | [apify.com](https://apify.com) | [apify](docs/apify.md) | Web scraping, 26K+ tools, MCP |
-| **Prolific** | [prolific.com](https://www.prolific.com) | [prolific](docs/prolific.md) | Human-in-the-loop data for SFT/DPO |
-| **Anchor Browser** | [anchorbrowser.io](https://www.anchorbrowser.io) | [anchor-browser](docs/anchor-browser.md) | Secure browser identity for AI agents |
-| **HoundDog.ai** | [hounddog.ai](https://hounddog.ai) | [hounddog](docs/hounddog.md) | AI code security, PII code scanning |
-| **Vocal Bridge** | [vocalbridge.ai](https://vocalbridge.ai) | [vocal-bridge](docs/vocal-bridge.md) | Voice UI for AI applications (AI Fund) |
-| **OnMemory** | [onmemory.ai](https://onmemory.ai) | [onmemory](docs/onmemory.md) | Deterministic memory for AI agents |
+| **BAND** | [band.ai](https://www.band.ai) | [band](band.md) | Agentic Mesh — "Slack for agents" with governance |
+| **Unblocked** | [getunblocked.com](https://getunblocked.com) | [unblocked](unblocked.md) | Context Engine: -42% tokens, +27% speed |
+| **Spice AI** | [spice.ai](https://spice.ai) | [spice-ai](spice-ai.md) | Open-source Data & AI Runtime (Rust) |
+| **Apify** | [apify.com](https://apify.com) | [apify](apify.md) | Web scraping, 26K+ tools, MCP |
+| **Prolific** | [prolific.com](https://www.prolific.com) | [prolific](prolific.md) | Human-in-the-loop data for SFT/DPO |
+| **Anchor Browser** | [anchorbrowser.io](https://www.anchorbrowser.io) | [anchor-browser](anchor-browser.md) | Secure browser identity for AI agents |
+| **HoundDog.ai** | [hounddog.ai](https://hounddog.ai) | [hounddog](hounddog.md) | AI code security, PII code scanning |
+| **Vocal Bridge** | [vocalbridge.ai](https://vocalbridge.ai) | [vocal-bridge](vocal-bridge.md) | Voice UI for AI applications (AI Fund) |
+| **OnMemory** | [onmemory.ai](https://onmemory.ai) | [onmemory](onmemory.md) | Deterministic memory for AI agents |
 
 ---
 
