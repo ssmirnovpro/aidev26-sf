@@ -102,7 +102,7 @@ We have detailed profiles (product, funding, business model, customer pricing) f
 
 ## All Conference Participants
 
-50+ companies were sponsors or exhibitors. Full list with sponsorship tiers — see [ai-dev-26-conference](docs/ai-dev-26-conference.md).
+50+ companies were sponsors or exhibitors.
 
 Companies without detailed profiles: AMD, Oracle, Google DeepMind, AWS, Arm, Andela, Bain & Company, D. E. Shaw & Co, Snowflake, Flower Labs, Turing, Chroma, Reducto, JetBrains, Cursor, Qdrant, TRAE, CircleCI, SambaNova, CrewAI, Tavily, CopilotKit, MarcoPolo, Agentic Fabriq, Veris AI, Zencoder, Giskard, Oumi, Okahu AI, Refold AI, Vectara, Cline, OpenAI, LlamaIndex.
 
